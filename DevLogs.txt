@@ -1,4 +1,15 @@
-Update 1.2 log
+
+Update 1.3 log  - 13.12.2023
+
+Maded Launcher for game
+Added weapon customization panel : Press Z
+Added Film Grain effect
+Added physic to small objects
+Added Discord api
+
+------------------------------------------------
+
+Update 1.2 log - 11.12.2023
 
 Classic weapon changed pose on leaning
 Classic weapon shake recuded 1.0f -> 0.5f
@@ -28,11 +39,4 @@ Fixed nav mesh surfaces
 Fixed third person character animations
 Fixed BOT's nick names
 Fixed aiming on TPS view state
-
-
-Update 1.3 log
-
-Added Film Grain effect
-Added physic to small objects
-Added Discord api
 
