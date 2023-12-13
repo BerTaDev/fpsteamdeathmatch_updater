@@ -1,0 +1,38 @@
+Update 1.2 log
+
+Classic weapon changed pose on leaning
+Classic weapon shake recuded 1.0f -> 0.5f
+Classic weapon camera shake recuded 3.0f -> 1.0f
+Classic weapon magazine change speed increased : 1.0f -> 1.5f
+Music play on awake : true -> false
+
+Changed shadows distance : 150.0f -> 75.0f
+Added graphics optimization
+Added Polygon city map
+Added weapon dynamic pose
+Added third person view camera view
+Added muzzle flash to the weapon in his third person character's hand
+Added character sliding
+Added player-specific icons and outlines to kill table
+Added hitmark, kill, die sound effects for player
+Added ambience sound effects
+Added new bot names from SkinnyDev Haven Discord -> ZOA, mutanpatates
+Added players count
+Addded Bot Commands : AddBot [count], RemoveAllBots, RemoveAnBot // in development
+Added FlyCamera : Console -> SetFlyCamera true/false
+
+Fixed the name on the UI of the one who killed you
+Fixed GodMode command
+Fixed dynammic vignette (Yes, there was.)
+Fixed nav mesh surfaces
+Fixed third person character animations
+Fixed BOT's nick names
+Fixed aiming on TPS view state
+
+
+Update 1.3 log
+
+Added Film Grain effect
+Added physic to small objects
+Added Discord api
+
