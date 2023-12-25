@@ -1,3 +1,49 @@
+Update 1.4.1 log
+
+box collider warnings...
+top-to-bottom restructuring due to version change 
+
+Added Y axis Recoil
+Changed Classic weapon shoot shakes
+Changed Classic weapon shoot animation
+Changed M4A4 shoot sound effects
+Changed all sights & scopes reticle textures
+developed flight
+Fixed AI ways
+Added Blood splash
+Added war ambience sound effects
+Added viewmodel animation shakes
+Added viewmodel animation sound effects
+Added last shoot shake & sound effects
+Added aim in/out sound effects
+
+-----------unity version 2022 -> 2021-----------
+
+Update 1.4 log
+
+Added main menu scene : main menu, settings (onDevelopment), exit + game...
+Changed Team system
+Changed AddBot system
+Removed viewmodel shadows
+Removed AddBot console command
+Added new console command : AddBotTeamBLUE [count]
+Added new console command : AddBotTeamRED [count]
+Added new console command : map [id], MainMenu, Demo, City, Middle East
+Added Polygon Military Map
+Added Game Settings : bots count, select team, select map...
+Added Pause menu
+Added view mode : normal, POV : LeftAlt Key : console > ChangeViewMode [POV/Normal] : deafult is [Normal]
+Added handSmooth & PostEffects for POV mod
+Added slow motion : Caps lock key
+Added bullet trace
+Added flights
+Fixed shadows
+Changed shaders of all materials
+AI improvements made
+Discord api deactivated for fix
+Radius of spawn points increased : so now the game covers the whole map...
+
+------------------------------------------------
 
 Update 1.3 log  - 13.12.2023
 
