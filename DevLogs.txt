@@ -1,3 +1,22 @@
+Update 1.4.2 log
+
+Changed game colors
+Changed cartoon shaders
+Changed particles shaders
+Changed post processing effects
+Changed ambience lightings
+Changed timeofday settings
+Changed Main menu music volume
+
+Added distance to point lights for shadow optimizations
+Added damage to by body area
+Added impact sounds effects
+Added right aim mode = mouse 4 input
+
+Removed motion blur fx
+
+------------------------------------------------
+
 Update 1.4.1 log
 
 box collider warnings...
