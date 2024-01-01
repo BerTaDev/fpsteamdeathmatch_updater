@@ -1,3 +1,19 @@
+Update 1.4.3 log
+
+Added new nicknames
+Changed City Collisions : Fixed*
+Changed Middle East Collisions : Fixed*
+No more players touching each other
+the same goes for the body... : hitboxes...
+Fixed teamnate nickname texts : "Press E" bug fixed:
+Fixed player controller step height & step angle
+Added select barrel hud
+Added supressed shoot clips
+Changed glass materials in city map
+Changed some skins shaders
+
+------------------------------------------------
+
 Update 1.4.2 log
 
 Changed game colors
