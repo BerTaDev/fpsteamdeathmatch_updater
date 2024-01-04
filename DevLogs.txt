@@ -1,3 +1,14 @@
+Update 1.4.4 log
+
+Added die sfx & vfx
+Changed POV mode settings : fov on aim
+Changed right aim mode setting : crosshair & fov & sensitivity
+Changed glass materials in city map
+Changed some skins shaders
+Changed AI spawnpoint system
+
+------------------------------------------------
+
 Update 1.4.3 log
 
 Added new nicknames
