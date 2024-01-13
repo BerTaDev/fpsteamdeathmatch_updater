@@ -1,3 +1,20 @@
+Update 1.4.5 log
+
+Added discord rich presence
+Added climbing 
+Added use ladder
+Changed graphics
+Added volumetric fog (experimental)
+View models changed to polygon styles
+Added volumes to particle effects
+AIs are even smarter now
+Added difficulty settings for AIs
+Echo effect added to indoor areas
+Added Kill-Score Data & UI Messages
+Changed recoil & shake data for AK47 weapon
+
+------------------------------------------------
+
 Update 1.4.4 log
 
 Added die sfx & vfx
