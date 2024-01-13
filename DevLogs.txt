@@ -5,6 +5,7 @@ Added climbing
 Added use ladder
 Changed graphics
 Added volumetric fog (experimental)
+Fixed AIs names viewpoints
 View models changed to polygon styles
 Added volumes to particle effects
 AIs are even smarter now
