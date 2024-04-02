@@ -1,20 +1,18 @@
+Update 1.6 pre-release log - 02.04.2024
+
 Support for this launcher has ended.
 please check the itch.io page for the latest version!
--
+|->
 https://hyzefstudios.itch.io/fps-team-deathmatch-game
-https://hyzefstudios.itch.io/fps-team-deathmatch-game
-https://hyzefstudios.itch.io/fps-team-deathmatch-game
-https://hyzefstudios.itch.io/fps-team-deathmatch-game
-https://hyzefstudios.itch.io/fps-team-deathmatch-game
-https://hyzefstudios.itch.io/fps-team-deathmatch-game
--
--
--
--
--
--
--
--
+|
+|
+|
+|
+|
+|
+|
+|
+|
 Update 1.4.5R
 -Maybe last update...
 -
